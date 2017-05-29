@@ -1,6 +1,6 @@
 # propio
 *.exe
-infoautoenv/
+infoenv/
 .idea/
 
 # Byte-compiled / optimized / DLL files
